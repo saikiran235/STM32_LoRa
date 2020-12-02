@@ -1,0 +1,10 @@
+lora.c:19:9:lora_read_reg	24	static
+lora.c:32:6:lora_write_reg	24	static
+lora.c:42:9:lora_init	32	static
+lora.c:68:5:lora_prasePacket	24	static
+lora.c:92:9:lora_available	16	static
+lora.c:96:9:lora_read	16	static
+lora.c:103:9:lora_begin_packet	16	static
+lora.c:115:6:lora_tx	32	static
+lora.c:127:9:lora_end_packet	24	static
+lora.c:140:6:lora_set_frequency	40	static
